@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/bachal-abro/videotube-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/bachal-abro/videotube-frontend.git
